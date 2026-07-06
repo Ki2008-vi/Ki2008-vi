@@ -5,10 +5,9 @@
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganes-riski-pratama-2b380840b/)
-[![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rysporto.my.id/)
+[![Portofolio](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rysporto.my.id/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pganesriski@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryskis63_/)
-[![Discord](https://img.shields.io/badge/Discord-norysavai-0D1117?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/norysavai)
 
 </div>
 
@@ -32,9 +31,7 @@ Front-End Developer based in Indonesia. I build clean, functional web and mobile
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
