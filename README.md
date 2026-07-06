@@ -4,10 +4,10 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganes-riski-pratama-2b380840b/)
-[![Portofolio](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rysporto.my.id/)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pganesriski@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryskis63_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganes-riski-pratama-2b380840b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4?style=flat&logo=googlechrome&logoColor=white)](https://www.rysporto.my.id/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pganesriski@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ryskis63_/)
 
 </div>
 
