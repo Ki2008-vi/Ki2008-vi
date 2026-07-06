@@ -6,7 +6,7 @@
 
 # Hi, I'm Ganes Riski Pratama &nbsp;👋
 
-I'm a **Front-End Developer** based in Ponorogo, Indonesia. I build clean, responsive web interfaces and ship personal projects across web, Android, and PHP. I enjoy turning ideas into smooth, functional UIs and I'm continuously expanding my skills toward full-stack development.
+I'm a **Front-End Developer** based in Indonesia. I build clean, responsive web interfaces and ship personal projects across web, Android, and PHP. I enjoy turning ideas into smooth, functional UIs and I'm continuously expanding my skills toward front-end development.
 
 <br>
 
