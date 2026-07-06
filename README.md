@@ -4,26 +4,28 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganes-riski-pratama-2b380840b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4?style=flat&logo=googlechrome&logoColor=white)](https://www.rysporto.my.id/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pganesriski@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ryskis63_/)
+<!-- Dynamic Typing Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=800&lines=Front-End+Developer;Building+clean,+functional+interfaces;Expanding+into+Full-Stack+Engineering" alt="Typing SVG" />
+
+<br><br>
+
+<!-- Unified Flat-Square Social Badges -->
+<a href="https://www.linkedin.com/in/ganes-riski-pratama-2b380840b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.rysporto.my.id/"><img src="https://img.shields.io/badge/Portfolio-%234285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:pganesriski@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.instagram.com/ryskis63_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 
-<br>
+<br><br>
 
-## About Me
+## Executive Summary
 
-Front-End Developer based in Indonesia. I build clean, functional web and mobile interfaces and I'm continually expanding into full-stack work.
-
-- Focused on JavaScript, TypeScript, and modern front-end practices
-- Shipping personal and practice projects across web, Android, and PHP
-- Open to collaboration and front-end / full-stack opportunities
+Based in Indonesia, I bridge the gap between complex logic and highly accessible user interfaces. My primary focus is on writing scalable JavaScript and TypeScript, executing modern front-end architectures, and delivering production-ready applications across web and Android ecosystems.
 
 <br>
 
-## Technologies
+## Core Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23121212?style=flat-square&logo=html5&logoColor=%23E34F26" alt="HTML5" height="28" />
@@ -31,31 +33,40 @@ Front-End Developer based in Indonesia. I build clean, functional web and mobile
   <img src="https://img.shields.io/badge/JavaScript-%23121212?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="28" />
   <img src="https://img.shields.io/badge/TypeScript-%23121212?style=flat-square&logo=typescript&logoColor=%233178C6" alt="TypeScript" height="28" />
   <img src="https://img.shields.io/badge/PHP-%23121212?style=flat-square&logo=php&logoColor=%23777BB4" alt="PHP" height="28" />
+  <img src="https://img.shields.io/badge/Kotlin-%23121212?style=flat-square&logo=kotlin&logoColor=%237F52FF" alt="Kotlin" height="28" />
 </p>
 
 <br>
 
-## Selected Work
-
-| Project | Stack | Description |
-|---|---|---|
-| [Automotive Showcase](https://github.com/Ki2008-vi/Automotive-Showcase-Project) | TypeScript | Front-end showcase site for automotive products. |
-| [Portfolio](https://github.com/Ki2008-vi/PortofolioRyski-2) | TypeScript | Personal portfolio site, second iteration. |
-| [E-Commerce UI](https://github.com/Ki2008-vi/Project-E_commerce-HTML) | HTML | Static e-commerce interface build. |
-| [GaransiKu](https://github.com/Ki2008-vi/Project-GaransiKu-AndroidApps) | Kotlin | Android app for tracking product warranties. |
-| [Tebak Brainrot](https://github.com/Ki2008-vi/Project-Tebak-Brainrot) | JavaScript | Browser-based guessing game. |
-| [Manajemen Barang](https://github.com/Ki2008-vi/manajemen-barang-php) | PHP | Inventory management system. |
-
-<br>
-
-## Statistics
+## Selected Engineering Projects
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ki2008-vi&theme=dark&hide_border=true&background=0D1117" alt="streak stats" />
+  <!-- Dynamic Repository Cards replace the static table -->
+  <a href="https://github.com/Ki2008-vi/Automotive-Showcase-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ki2008-vi&repo=Automotive-Showcase-Project&theme=dark&bg_color=121212&hide_border=true&title_color=ffffff&icon_color=4285F4" width="48%" alt="Automotive Showcase" />
+  </a>
+  <a href="https://github.com/Ki2008-vi/PortofolioRyski-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ki2008-vi&repo=PortofolioRyski-2&theme=dark&bg_color=121212&hide_border=true&title_color=ffffff&icon_color=4285F4" width="48%" alt="Portfolio Iteration 2" />
+  </a>
+  <br><br>
+  <a href="https://github.com/Ki2008-vi/Project-GaransiKu-AndroidApps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ki2008-vi&repo=Project-GaransiKu-AndroidApps&theme=dark&bg_color=121212&hide_border=true&title_color=ffffff&icon_color=4285F4" width="48%" alt="GaransiKu Android App" />
+  </a>
+  <a href="https://github.com/Ki2008-vi/manajemen-barang-php">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ki2008-vi&repo=manajemen-barang-php&theme=dark&bg_color=121212&hide_border=true&title_color=ffffff&icon_color=4285F4" width="48%" alt="PHP Inventory Management" />
+  </a>
+</div>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ki2008-vi&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="contribution graph" />
+## Development Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ki2008-vi&theme=dark&hide_border=true&background=121212&ring=4285F4&fire=4285F4&currStreakNum=ffffff" alt="Streak Stats" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ki2008-vi&theme=react-dark&hide_border=true&bg_color=121212&color=4285F4&line=4285F4&point=ffffff" width="100%" alt="Activity Graph" />
 
 </div>
