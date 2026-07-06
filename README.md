@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/assets/ddg_1774620034156831646.jpg" width="100%" alt="banner"/>
+<img src="./assets/ddg_1774620034156831646.jpg" width="100%" alt="banner"/>
 
 <br><br>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-Front-End Developer based in Ponorogo, Indonesia. I build clean, functional web and mobile interfaces and I'm continually expanding into full-stack work.
+Front-End Developer based in Indonesia. I build clean, functional web and mobile interfaces and I'm continually expanding into full-stack work.
 
 - Focused on JavaScript, TypeScript, and modern front-end practices
 - Shipping personal and practice projects across web, Android, and PHP
