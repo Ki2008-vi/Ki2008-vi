@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ddg_1774620034156831646.jpg" width="100%" height="280" alt="banner"/>
+<img src="./assets/banner.jpg" width="100%" height="280" alt="banner"/>
 
 <br><br>
 
