@@ -59,11 +59,6 @@ Front-End Developer based in Ponorogo, Indonesia. I build clean, functional web 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ki2008-vi&theme=dark&hide_border=true&background=0D1117" alt="streak stats" />
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ki2008-vi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="49%" alt="github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ki2008-vi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" width="38%" alt="top languages" />
-
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ki2008-vi&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="contribution graph" />
