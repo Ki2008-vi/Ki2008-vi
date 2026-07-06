@@ -1,62 +1,53 @@
-# 
+<div align="center">
 
-<p align="center">
-  <!-- Minimalist, high-end typography banner -->
-  <img src="https://capsule-render.vercel.app/main?type=soft&color=auto&height=140&section=header&text=design%20.%20develop%20.%20deploy&fontSize=24&fontColor=2f3542" width="100%" alt="Header Banner" />
-</p>
+# Ganes Riski Pratama
 
-<br />
+### Front-End Developer — Ponorogo, Indonesia
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>Hey there, I'm a Front-End Developer.</h2>
-      <p>I specialize in building highly performant, accessible, and visually precise user interfaces. I bridge the gap between complex backend logic and clean, intuitive user experiences.</p>
-      <p>Focused on writing scalable JavaScript/TypeScript, mastering modern CSS architecture, and optimizing web performance.</p>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <!-- Minimalist Profile Metrics -->
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=contrast&hide_border=true&bg_color=ffffff00" width="90%" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+Building clean, functional interfaces with an eye for detail.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganes-riski-pratama-2b380840b/)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.rysporto.my.id/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:pganesriski@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ryskis63_/)
+[![Discord](https://img.shields.io/badge/Discord-norysavai-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/norysavai)
 
-### 💻 Core Stack
+</div>
 
-<p align="left">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  
-  <!-- Build Tools & Workflow -->
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-</p>
+<br>
 
----
+## Stack
 
-### 📊 Language Distribution
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=contrast&hide_border=true&bg_color=ffffff00" width="60%" alt="Top Languages" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 
-<br />
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br>
+
+## Selected Work
+
+| Project | Stack | Description |
+|---|---|---|
+| [Automotive Showcase](https://github.com/Ki2008-vi/Automotive-Showcase-Project) | TypeScript | Front-end showcase site for automotive products. |
+| [Portfolio](https://github.com/Ki2008-vi/PortofolioRyski-2) | TypeScript | Personal portfolio site — second iteration. |
+| [E-Commerce UI](https://github.com/Ki2008-vi/Project-E_commerce-HTML) | HTML | Static e-commerce interface build. |
+| [GaransiKu](https://github.com/Ki2008-vi/Project-GaransiKu-AndroidApps) | Kotlin | Android app for tracking product warranties. |
+| [Tebak Brainrot](https://github.com/Ki2008-vi/Project-Tebak-Brainrot) | JavaScript | Browser-based guessing game. |
+| [Manajemen Barang](https://github.com/Ki2008-vi/manajemen-barang-php) | PHP | Inventory management system. |
+
+<br>
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ki2008-vi&show_icons=true&hide_border=true&theme=graywhite&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ki2008-vi&layout=compact&hide_border=true&theme=graywhite&hide_title=true)
+
+</div>
