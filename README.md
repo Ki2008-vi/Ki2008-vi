@@ -25,15 +25,13 @@ Front-End Developer based in Indonesia. I build clean, functional web and mobile
 
 ## Technologies
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23121212?style=flat-square&logo=html5&logoColor=%23E34F26" alt="HTML5" height="28" />
+  <img src="https://img.shields.io/badge/CSS3-%23121212?style=flat-square&logo=css3&logoColor=%231572B6" alt="CSS3" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-%23121212?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="28" />
+  <img src="https://img.shields.io/badge/TypeScript-%23121212?style=flat-square&logo=typescript&logoColor=%233178C6" alt="TypeScript" height="28" />
+  <img src="https://img.shields.io/badge/PHP-%23121212?style=flat-square&logo=php&logoColor=%23777BB4" alt="PHP" height="28" />
+</p>
 
 <br>
 
