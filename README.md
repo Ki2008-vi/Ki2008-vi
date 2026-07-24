@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/bannar.png" width="100%" height="280" alt="banner"/>
+<img src="https://images.pexels.com/photos/33610551/pexels-photo-33610551.jpeg" width="100%" height="280" alt="banner"/>
 </div>
 
 ---
