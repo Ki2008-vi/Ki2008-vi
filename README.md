@@ -43,19 +43,6 @@ I'm a **Front-End Developer** based in Indonesia. I build clean, responsive web 
 
 <br>
 
-## 🗂️ Selected Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| [Automotive Showcase](https://github.com/Ki2008-vi/Automotive-Showcase-Project) | TypeScript | Front-end showcase site for automotive products |
-| [Portfolio v2](https://github.com/Ki2008-vi/PortofolioRyski-2) | TypeScript | Personal portfolio site, second iteration |
-| [E-Commerce UI](https://github.com/Ki2008-vi/Project-E_commerce-HTML) | HTML | Static e-commerce interface build |
-| [GaransiKu](https://github.com/Ki2008-vi/Project-GaransiKu-AndroidApps) | Kotlin | Android app for tracking product warranties |
-| [Tebak Brainrot](https://github.com/Ki2008-vi/Project-Tebak-Brainrot) | JavaScript | Browser-based guessing game |
-| [Manajemen Barang](https://github.com/Ki2008-vi/manajemen-barang-php) | PHP | Inventory management system |
-
-<br>
-
 ## 🔗 Connect
 
 <div align="center">
