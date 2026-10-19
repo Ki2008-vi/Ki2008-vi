@@ -50,7 +50,5 @@ I'm a **Front-End Developer** based in Indonesia. I build clean, responsive web 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganes-riski-pratama-2b380840b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rysporto.my.id/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pganesriski@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryskis63_/)
-[![Discord](https://img.shields.io/badge/Discord-norysavai-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/norysavai)
 
 </div>
